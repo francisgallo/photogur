@@ -5,7 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-Picture.destory_all  #keeps 
+ #keeps 
 
 Picture.create!(
   :title => "the old church on the coast of White Sea",
